@@ -1,4 +1,4 @@
-# jcelis-HydrosRS
+# jcelis-HydroRS
 # 💫 About Me:
 I'm focused on developing cutting-edge AI architectures, particularly in the realms of severe weather and agriculture. I'm actively seeking collaborations in multi-modal data integration and would love to connect with experts in mobility data acquisition, mobility pattern forecasting, and chatbot development.
 
